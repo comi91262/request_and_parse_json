@@ -1,0 +1,1 @@
+もともとは rust-htmlescapeで 新しいentities.rs のを取ってこようとした
